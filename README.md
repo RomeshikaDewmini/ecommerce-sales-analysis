@@ -1,6 +1,6 @@
 # 📊 E-Commerce Sales Analysis Dashboard
 
-![Power BI Dashboard](images/dashboard_page1.png)
+![Power BI Dashboard](images/dashboard_page1.jpeg)
 
 ---
 
@@ -25,7 +25,7 @@ An interactive Business Intelligence dashboard analyzing e-commerce sales data t
 ## 📊 Dashboard Pages
 
 ### Page 1: Executive Summary
-![Executive Summary](images/dashboard_page1.1.jpeg)
+![Executive Summary](images/dashboard_page1.jpeg)
 
 **Key Features:**
 - KPI Cards: Total Sales, Total Orders, Total Profit, Profit Margin
@@ -69,8 +69,8 @@ An interactive Business Intelligence dashboard analyzing e-commerce sales data t
 | Category | Sales | Percentage |
 |----------|-------|------------|
 | Technology | $827,456 | **36.59%** |
-| Office Supplies | $705,422 | **31.19%** |
 | Furniture | $728,659 | **32.22%** |
+| Office Supplies | $705,422 | **31.19%** |
 
 ### Regional Performance
 | Region | Sales | Percentage |
@@ -118,7 +118,6 @@ An interactive Business Intelligence dashboard analyzing e-commerce sales data t
 ---
 
 ## 📁 Repository Structure
-
 ecommerce-sales-analysis/
 │
 ├── data/
@@ -131,9 +130,9 @@ ecommerce-sales-analysis/
 │ └── Ecommerce_Sales_Dashboard.pbix
 │
 ├── images/
-│ ├── dashboard_page1.png
-│ ├── dashboard_page2.png
-│ └── dashboard_page3.png
+│ ├── dashboard_page1.jpeg
+│ ├── dashboard_page2.jpeg
+│ └── dashboard_page3.jpeg
 │
 ├── documentation/
 │ ├── BRD_Ecommerce_Sales.docx
@@ -141,7 +140,6 @@ ecommerce-sales-analysis/
 │
 ├── README.md
 └── .gitignore
-
 
 
 ---
@@ -154,11 +152,12 @@ ecommerce-sales-analysis/
 - MySQL Workbench (Optional)
 
 ### Steps
-1. **Clone the repository**
+
+**1. Clone the repository**
 ```bash
 git clone https://github.com/RomeshikaDewmini/ecommerce-sales-analysis.git
 
-Import CSV to MySQL
+2. Import CSV to MySQL
 
 Open MySQL Workbench
 
@@ -166,7 +165,7 @@ Create database: CREATE DATABASE ecommerce_sales;
 
 Import the dataset using the provided SQL script
 
-Open Power BI Dashboard
+3. Open Power BI Dashboard
 
 Open Ecommerce_Sales_Dashboard.pbix in Power BI Desktop
 
@@ -176,13 +175,13 @@ Explore interactive dashboard
 
 📸 Dashboard Screenshots
 Page 1: Executive Summary
-https://images/dashboard_page1.png
+https://images/dashboard_page1.jpeg
 
 Page 2: Product & Customer Analysis
-https://images/dashboard_page2.png
+https://images/dashboard_page2.jpeg
 
 Page 3: Regional & Time Analysis
-https://images/dashboard_page3.png
+https://images/dashboard_page3.jpeg
 
 🔗 Links
 Platform	Link
@@ -197,7 +196,6 @@ Role	Business Intelligence Enthusiast
 GitHub	RomeshikaDewmini
 Email	romeshikadewmini100@gmail.com
 LinkedIn	linkedin.com/in/your-profile
-
 📝 License
 This project is created for portfolio purposes and is free to use for learning and demonstration.
 
@@ -209,23 +207,3 @@ If you like this project, please consider:
 🔗 Sharing it on LinkedIn
 
 📝 Connecting with me for collaboration
-
-Happy Analyzing! 📊🚀
-
-images/dashboard_page1.jpeg
-images/dashboard_page1.1.jpeg
-images/dashboard_page2.jpeg
-images/dashboard_page3.jpeg
-
-
-
-```bash
-cd C:/Users/ACER/Desktop/ecommerce-sales-analysis
-
-git add README.md
-git add images/
-git add documentation/
-
-git commit -m "Update README with images and complete documentation"
-
-git push origin main
