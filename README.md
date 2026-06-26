@@ -151,10 +151,7 @@ ecommerce-sales-analysis/
 - MySQL Server (Free download from Oracle)
 - MySQL Workbench (Optional)
 
-### Steps
 
-**1. Clone the repository**
-```bash
 git clone https://github.com/RomeshikaDewmini/ecommerce-sales-analysis.git
 
 2. Import CSV to MySQL
@@ -173,23 +170,22 @@ Refresh data connection
 
 Explore interactive dashboard
 
-##📸 Dashboard Screenshots
-###Page 1: Executive Summary
+📸 Dashboard Screenshots
+Page 1: Executive Summary
 https://images/dashboard_page1.jpeg
 
-###Page 2: Product & Customer Analysis
+Page 2: Product & Customer Analysis
 https://images/dashboard_page2.jpeg
 
-###Page 3: Regional & Time Analysis
+Page 3: Regional & Time Analysis
 https://images/dashboard_page3.jpeg
 
-##🔗 Links
+🔗 Links
 Platform	Link
 GitHub Repository	RomeshikaDewmini/ecommerce-sales-analysis
 LinkedIn	Your LinkedIn Profile
 Portfolio	Your Portfolio Link
----
-##👩‍💻 Author
+👩‍💻 Author
 Romeshika Dewmini
 
 Detail	Information
@@ -197,8 +193,7 @@ Role	Business Intelligence Enthusiast
 GitHub	RomeshikaDewmini
 Email	romeshikadewmini100@gmail.com
 LinkedIn	linkedin.com/in/your-profile
----
-##📝 License
+📝 License
 This project is created for portfolio purposes and is free to use for learning and demonstration.
 
 ⭐ Show Your Support
@@ -206,6 +201,6 @@ If you like this project, please consider:
 
 ⭐ Starring the repository on GitHub
 
-##🔗 Sharing it on LinkedIn
+🔗 Sharing it on LinkedIn
 
 📝 Connecting with me for collaboration
